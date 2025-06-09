@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sentence-transformers
+chromadb
+langchain
+unstructured[all-docs]
+torch
+torchvision
+torchaudio
+numpy
+lightning
+transformers
+accelerate
+bitsandbytes
+langchain-community
+optimum
+pymilvus
