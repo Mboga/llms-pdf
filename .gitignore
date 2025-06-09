@@ -1,0 +1,8 @@
+#default macOS files
+.DS_Store
+#data folder
+data/
+# virtual environment
+llm_pdf/
+#keys
+.env
